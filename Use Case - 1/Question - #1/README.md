@@ -20,11 +20,11 @@ that the Father's Occupation influences the students performance the most in the
 
 - Below is the distribution bar graph of the impact of maths marks w.r.t the fathers' occupation!
 
-![father-occupation-bar-graph](https://user-images.githubusercontent.com/17992315/34031438-5e6a9e0e-e197-11e7-9605-209bac9f93b1.png)
+![father-occupation-bar-graph](https://github.com/sahumukesh/Gramener-Assignment/blob/master/Use%20Case%20-%201/Question%20-%20%231/father-occupation-bar-graph.png)
 
 - For the complete output of this code please check out this link:
-(https://user-images.githubusercontent.com/17992315/34031528-d35feb74-e197-11e7-9490-03e47d6bc63e.png)
+(https://github.com/sahumukesh/Gramener-Assignment/blob/master/Use%20Case%20-%201/Question%20-%20%231/Maths_Father_Occupation_Bar_Graph.png)
 
-- Code: https://github.com/Vishesh51/Data-Analytics-Assignment-Appingway/blob/master/Use%20case%201%20-%20Question%201/part1-maths-father_occupation.py
+- Code:https://github.com/sahumukesh/Gramener-Assignment/blob/master/Use%20Case%20-%201/Question%20-%20%231/Maths_Father_Occupation.py
 
 - All the codes with their output have been uploaded in this folder!
