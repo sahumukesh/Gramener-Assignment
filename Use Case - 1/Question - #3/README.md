@@ -22,6 +22,6 @@ that the south indian states perform poorer as compared to the national average!
 
 - Here is the output of the program:
 
-![South_Indian_States_perf](https://user-images.githubusercontent.com/17992315/34033353-e6147156-e19f-11e7-8797-db6c207a377b.png)
+![South_Indian_States_perf](https://github.com/sahumukesh/Gramener-Assignment/blob/master/Use%20Case%20-%201/Question%20-%20%233/South_Indian_States_Perf.png)
 
 - All the codes with their output have been uploaded in this folder!
