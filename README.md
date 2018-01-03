@@ -8,8 +8,6 @@ This is a repository for assignment in Data Science given by Gramener
     
 
 Program:
-L1 = ['a', 'b', 'c']
-L2 = ['b', 'd']
 
 def common_element(i, j):
 	L1_set = set(L1)
@@ -20,6 +18,10 @@ def common_element(i, j):
 		return (L1_set.intersection(L2_set))
 	else:
 		return ("No Common Elements")
+
+L1 = ['a', 'b', 'c']
+L2 = ['b', 'd']
+print(common_element(i, j))
 print list(set(L1) - set(L2))
 
 Output:
