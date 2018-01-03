@@ -14,7 +14,7 @@ find the average of the marks w.r.t. each state!
 
 - Below is the distribution bar graph of the impact of maths marks across the states w.r.t gender!
 
-![part2-maths-state_wise gender](https://user-images.githubusercontent.com/17992315/34033074-be986b42-e19e-11e7-8e28-c60c6676bd7f.png)
+![Maths_State_Wise_Gender](https://github.com/sahumukesh/Gramener-Assignment/blob/master/Use%20Case%20-%201/Question%20-%20%232/Maths_State_Wise_Gender.png)
 
 - For the complete output of this code please refer to:
 Maths_State_Wise-Gender(Output) file in the folder
